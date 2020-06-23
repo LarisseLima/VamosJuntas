@@ -1,0 +1,30 @@
+.box-cover {
+    background: url(../img/cover.png) center no-repeat;
+    background-size: cover;
+    height: 80vh;
+    
+    
+}
+
+.box-cover .box-cover--content {
+    padding: 350px 0 100px;
+}
+
+.box-cover h1 {
+    text-align: center;
+    color: #FAF0E6;
+}
+
+.box-partners {
+    background-color: #C0C0C0;
+    padding: 100px 0;
+}
+
+.box-partners .box-partners--title {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.box-footer {
+    padding: 25px 0;
+}
