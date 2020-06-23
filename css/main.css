@@ -1,6 +1,7 @@
 .box-cover {
-    background: url(../img/cover.png) center no-repeat;
+    background: url(../img/cover.png) no-repeat;
     background-size: cover;
+    margin-top: 1.5rem;
     height: 80vh;
     
     
@@ -8,6 +9,7 @@
 
 .box-cover .box-cover--content {
     padding: 350px 0 100px;
+    
 }
 
 .box-cover h1 {
@@ -16,7 +18,7 @@
 }
 
 .box-partners {
-    background-color: #C0C0C0;
+    background-color: #708090;
     padding: 100px 0;
 }
 
@@ -27,4 +29,5 @@
 
 .box-footer {
     padding: 25px 0;
+
 }
