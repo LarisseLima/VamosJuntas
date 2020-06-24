@@ -7,6 +7,10 @@
     
 }
 
+.card{
+    border: none;
+}
+
 .box-cover .box-cover--content {
     padding: 350px 0 100px;
     
@@ -17,8 +21,8 @@
     color: #FAF0E6;
 }
 
-.box-partners {
-    background-color: #708090;
+.box-partners  {
+    background-color: #2F4F4F;
     padding: 100px 0;
 }
 
@@ -31,3 +35,17 @@
     padding: 25px 0;
 
 }
+
+.box-partners--title h2 , p {
+    color: #000000;
+}
+
+.card-text {
+    color: #696969;
+    font-weight: bold;
+}
+
+.float-right {
+    color: #696969;
+}
+
