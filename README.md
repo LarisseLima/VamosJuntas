@@ -2,7 +2,7 @@
 
 Foi utilizado na criação do  projeto o framework Bootstrap. Com Html e Css.
 
-.<br>
+<br>
 
 
 
