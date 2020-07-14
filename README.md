@@ -1,6 +1,6 @@
 <strong>PROJETO VAMOS JUNTAS</strong><br>
 
-Foi utilizado na criação do  projeto o framework Bootstrap. Com Html e Css.
+Foi utilizado na criação do  projeto o framework Bootstrap, Html e Css.
 
 <br>
 
