@@ -14,7 +14,5 @@ Foram utilizados na criação do  projeto o framework Bootstrap, Html e Css.
 [ LinkedIn ](https://www.linkedin.com/in/larisselima/)<br/>
 [ Womakers Code ](https://womakerscode.org/carreira)
 
-
-Desenvolvido por Larisse Lima no  Hacking de Carreira - WoMakersCode
-☕ 👩‍💻
+<p align="center"><b>Feito com 	:coffee: <br> por Larisse Lima</b></p>
 
